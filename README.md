@@ -1,3 +1,5 @@
+###THIS IS NOT THE MOST UP-TO-DATE VERSION, THIS IS FOR DEVELOPMENT OF THE LINUX RELATED INSTRUCTIONS FOR THE MERGING TO THE UPSTREAM.
+
 # ADOFAI Mod Installation Guide
 ### 한국어: [여기를 클릭하세요!](./kor/main.md)
 ### English: [Click here!](./eng/main.md)
@@ -7,6 +9,8 @@
 Thanks to:
 - [PizzaLovers007](https://github.com/PizzaLovers007) for helping English translations!
 - [Gotchfutchian](https://github.com/Gotchfutchian) for adding all the Linux related contents.
+
+##If you are having issues, join the ADOFAI.gg discord server and ping Gotchfutchian#2128 for assistance
 
 ### Where to seek for help
 
